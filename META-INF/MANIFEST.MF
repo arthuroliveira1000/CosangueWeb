@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CosangueWeb
+Bundle-SymbolicName: CosangueWeb
+Bundle-Version: 1.0.0.qualifier
+Export-Package: cosangue,
+ cosangue.controller,
+ cosangue.dao,
+ cosangue.model,
+ json,
+ resttemplate,
+ utils
